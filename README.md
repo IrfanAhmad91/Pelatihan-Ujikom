@@ -1,7 +1,7 @@
 # Pelatihan-Ujikom
 
 
-Username : admmin
+Username : admin
 Password : password
 
 Username : petugas1
